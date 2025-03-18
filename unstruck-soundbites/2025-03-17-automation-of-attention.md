@@ -1,10 +1,12 @@
 ---
 title: "The Automation of Attention: Reclaiming Presence in a Digital World"
 date: 2025-03-17
+author: "jewel mlnarik"
+author_credit: http://jewel.mlnarik.com
 original_url: https://unstrucksoundbites.substack.com/p/the-automation-of-attention-reclaiming
 platform: "Substack"
 tags: ["attention", "presence", "somatics", "practice", "automation"]
-featured_image: "../images/unsplash-simon-berger.jpg"
+featured_image: ../images/unsplash-simon-berger.jpg
 image_credit: "Photo by Simon Berger on Unsplash (https://unsplash.com/@simon_berger)"
 ---
 
