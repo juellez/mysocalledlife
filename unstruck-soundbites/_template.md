@@ -10,14 +10,13 @@ author_url: https://jewel.mlnarik.com
 # author_bio: "Brief bio or title of guest"
 # author_url: "https://their-website.com" 
 tags: ["attention", "presence", "somatics", "practice"]
-featured_image: ../images/unsplash-simon-berger.jpg
-image_credit: "Photo by Simon Berger on Unsplash (https://unsplash.com/@simon_berger)"
 ---
 
 # TITLE
 *Tagline, subtitle*
 
 ![Featured Image](../images/unsplash-simon-berger.jpg)
+<small>Photo by [Photographer](https://unsplash.com/@juellez) on Unsplash</small>
 
 I've been thinking about attention lately—how it flows, where it lands, and how it's not just divided but increasingly *automated*. It seems like every entrepreneur I connect with these days mentions their ADHD, and it's no wonder! We've spent the last decade training our attention to be always on the lookout for and open to distractions. Our devices decide what deserves our focus, algorithms determine what fills our vision, and notifications choreograph the rhythm of our days.
 

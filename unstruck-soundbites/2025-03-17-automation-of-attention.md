@@ -6,8 +6,6 @@ author_credit: http://jewel.mlnarik.com
 original_url: https://unstrucksoundbites.substack.com/p/the-automation-of-attention-reclaiming
 platform: "Substack"
 tags: ["attention", "presence", "somatics", "practice", "automation"]
-featured_image: ../images/unsplash-simon-berger.jpg
-image_credit: "Photo by Simon Berger on Unsplash (https://unsplash.com/@simon_berger)"
 ---
 
 # The Automation of Attention: Reclaiming Presence in a Digital World
@@ -16,6 +14,7 @@ image_credit: "Photo by Simon Berger on Unsplash (https://unsplash.com/@simon_be
 *"Stand still... stand still. The trees ahead and bushes beside you are not lost. Wherever you are is called Here [...] Stand still. The forest knows Where you are. You must let it find you." — excerpt from a poem by David Wagoner inspired by a Native American teaching*
 
 ![Photo by Simon Berger on Unsplash](../images/unsplash-simon-berger.jpg)
+<small>Photo by [Simon Berger](https://unsplash.com/@simon_berger) on Unsplash</small>
 
 I've been thinking about attention lately—how it flows, where it lands, and how it's not just divided but increasingly *automated*. It seems like every entrepreneur I connect with these days mentions their ADHD, and it's no wonder! We've spent the last decade training our attention to be always on the lookout for and open to distractions. Our devices decide what deserves our focus, algorithms determine what fills our vision, and notifications choreograph the rhythm of our days.
 
