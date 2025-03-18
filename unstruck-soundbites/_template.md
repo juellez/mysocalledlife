@@ -10,6 +10,9 @@ author_url: https://jewel.mlnarik.com
 # author_bio: "Brief bio or title of guest"
 # author_url: "https://their-website.com" 
 tags: ["attention", "presence", "somatics", "practice"]
+# For audio posts:
+# audio_url: "https://api.substack.com/feed/podcast/158773521/8323b8506704d4d40eb325178ad074d6.mp3"
+# has_audio: true
 ---
 
 # TITLE
@@ -21,6 +24,11 @@ tags: ["attention", "presence", "somatics", "practice"]
 I've been thinking about attention lately—how it flows, where it lands, and how it's not just divided but increasingly *automated*. It seems like every entrepreneur I connect with these days mentions their ADHD, and it's no wonder! We've spent the last decade training our attention to be always on the lookout for and open to distractions. Our devices decide what deserves our focus, algorithms determine what fills our vision, and notifications choreograph the rhythm of our days.
 
 This isn't a new insight—countless books, podcasts, and wellness influencers have been sounding alarms about our attention crisis for years now.[^1] What's emerging for me, though, is a nuanced challenge that's rarely addressed: the dangerous intersection where *distractibility* collides with our increasing dependence on *automation*.
+
+<audio controls="controls">
+  <source type="audio/mp3" src="https://api.substack.com/feed/podcast/158773521/8323b8506704d4d40eb325178ad074d6.mp3"></source>
+  <p>https://api.substack.com/feed/podcast/158773521/8323b8506704d4d40eb325178ad074d6.mp3</p>
+</audio>
 
 ## PRACTICE
 
